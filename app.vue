@@ -1,4 +1,5 @@
 <script setup>
+//making the options reactive to clicks when clicked
   const options = reactive({
     gender:"Girl",
     pupolarity: "Unique",
